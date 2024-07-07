@@ -9,10 +9,10 @@ export default function Headers(){
                     <Link to="/" className="title">토익 영단어(고급)</Link>
                 </div>
                 <div class="cell">
-                    <Link to="#x" className="button is-link is-light"> 
+                    <Link to="/create_word" className="button is-link is-light"> 
                         단어추가
                     </Link>
-                    <Link to="#x" className="button is-link is-light"> 
+                    <Link to="/create_day" className="button is-link is-light"> 
                         Day 추가
                     </Link>
                 </div>

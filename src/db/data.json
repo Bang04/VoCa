@@ -1,53 +1,193 @@
 {
-    "days" : [
-        {"id": 1, "day" : 1},
-        {"id": 2, "day" : 2},
-        {"id": 3, "day" : 3}
-     
-        
-    ],
-    "words" : [
-        {
-            "id"  : 1,
-            "day" : 1, 
-            "eng" : "book",
-            "kor" : "책",
-            "idDone" : false
-        },
-        {
-            "id"  : 2,
-            "day" : 1, 
-            "eng" : "apple",
-            "kor" : "사과",
-            "idDone" : false
-        },
-        {
-            "id"  : 3,
-            "day" : 2, 
-            "eng" : "car",
-            "kor" : "자동차",
-            "idDone" : false
-        },
-        {
-            "id"  : 4,
-            "day" : 2, 
-            "eng" : "pen",
-            "kor" : "연필",
-            "idDone" : false
-        },
-        {
-            "id"  : 5,
-            "day" : 1, 
-            "eng" : "school",
-            "kor" : "학교",
-            "idDone" : false
-        },
-        {
-            "id"  : 6,
-            "day" : 3, 
-            "eng" : "bananan",
-            "kor" : "바나나",
-            "idDone" : false
-        }
-    ] 
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "502e",
+      "day": 4
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "idDone": false,
+      "isDone": false
+    },
+    {
+      "id": "4",
+      "day": 2,
+      "eng": "pen",
+      "kor": "연필",
+      "idDone": false,
+      "isDone": false
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "bananan",
+      "kor": "바나나",
+      "idDone": false,
+      "isDone": false
+    },
+    {
+      "id": "b6a9",
+      "day": "apple",
+      "eng": "사과",
+      "kor": "1",
+      "isDone": false
+    },
+    {
+      "id": "c51d",
+      "day": "house",
+      "eng": "집",
+      "kor": "1",
+      "isDone": false
+    },
+    {
+      "id": "3e57",
+      "day": "window",
+      "eng": "창문",
+      "kor": "2",
+      "isDone": false
+    },
+    {
+      "id": "9d39",
+      "eng": "ring",
+      "kor": "반지",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "77cf",
+      "eng": "school",
+      "kor": "학교",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "fabb",
+      "eng": "student",
+      "kor": "학생",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "ecc7",
+      "eng": "cup",
+      "kor": "컵",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "0709",
+      "eng": "hand",
+      "kor": "손",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "26a2",
+      "eng": "sonow",
+      "kor": "눈",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "8e35",
+      "eng": "song",
+      "kor": "노래",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "0112",
+      "eng": "apple",
+      "kor": "사과",
+      "day": "4",
+      "isDone": false
+    },
+    {
+      "id": "a0b5",
+      "eng": "",
+      "kor": "",
+      "day": "",
+      "isDone": false
+    },
+    {
+      "id": "39ec",
+      "eng": "",
+      "kor": "",
+      "day": "",
+      "isDone": false
+    },
+    {
+      "id": "bdfa",
+      "eng": "",
+      "kor": "",
+      "day": "",
+      "isDone": false
+    },
+    {
+      "id": "8d34",
+      "eng": "",
+      "kor": "",
+      "day": "",
+      "isDone": false
+    },
+    {
+      "id": "4e3e",
+      "eng": "",
+      "kor": "",
+      "day": "",
+      "isDone": false
+    },
+    {
+      "id": "efd0",
+      "eng": "one",
+      "kor": "하나",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "c846",
+      "eng": "one",
+      "kor": "하나",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "be33",
+      "eng": "one",
+      "kor": "하나",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "f9d6",
+      "eng": "one",
+      "kor": "하나",
+      "day": "1",
+      "isDone": false
+    },
+    {
+      "id": "2ef8",
+      "eng": "one",
+      "kor": "하나",
+      "day": "1",
+      "isDone": false
+    }
+  ]
 }
